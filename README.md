@@ -1,0 +1,1 @@
+#This is a practice project. Attendance Management System for Gems Consulting. Mock up was done with Figma
